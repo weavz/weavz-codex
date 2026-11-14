@@ -1,0 +1,4 @@
+# Project-local MCP configuration. Codex only reads this for trusted projects.
+[mcp_servers.weavz]
+url = "https://platform.weavz.io/mcp/weavz"
+enabled = true
